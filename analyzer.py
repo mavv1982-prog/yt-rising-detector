@@ -6,18 +6,6 @@
 - 시간당 조회수, 조회수/구독자 배수로 떡상 점수 계산
 - 채널 구독자 스냅샷을 저장해 구독자 급증 채널 탐지
 - 결과를 이메일로 발송
-
-필요한 환경변수 (GitHub Secrets로 설정):
-  YT_API_KEY          : YouTube Data API v3 키
-  GMAIL_ADDRESS       : 발신 Gmail 주소
-  GMAIL_APP_PASSWORD  : Gmail 앱 비밀번호 (일반 비밀번호 아님!)
-  TO_EMAIL            : 수신 이메일 주소 (쉼표로 여러 개 가능)
-
-선택 환경변수:
-  REGION_CODES        : 국가 코드, 쉼표 구분 (기본: KR)  예) KR,US,JP
-  MAX_SUBSCRIBERS     : 구독자 상한 (기본: 10000)
-  LOOKBACK_HOURS      : 검색 기간 (기본: 48)
-  TOP_N_PER_CATEGORY  : 카테고리별 상위 몇 개 (기본: 5)
 """
 
 import os
@@ -31,18 +19,12 @@ from datetime import datetime, timedelta, timezone
 
 import requests
 
-# ---------------------------------------------------------------
-# 설정
-# ---------------------------------------------------------------
 API_KEY = os.environ["YT_API_KEY"]
 REGION_CODES = [r.strip().upper() for r in os.environ.get("REGION_CODES", "KR").split(",") if r.strip()]
 MAX_SUBS = int(os.environ.get("MAX_SUBSCRIBERS", "10000"))
 LOOKBACK_HOURS = int(os.environ.get("LOOKBACK_HOURS", "48"))
 TOP_N = int(os.environ.get("TOP_N_PER_CATEGORY", "5"))
 
-# 검색할 카테고리 (YouTube 공식 카테고리 ID)
-# 쿼터 주의: 검색 1회 = 100유닛, 하루 기본 쿼터 10,000유닛
-# 카테고리 수 x 국가 수 x 100 이 하루 쿼터를 넘지 않게 조절하세요.
 CATEGORIES = {
     "10": "음악",
     "20": "게임",
@@ -54,10 +36,9 @@ CATEGORIES = {
     "28": "과학기술",
 }
 
-# 떡상 판정 최소 기준 (하나라도 만족하면 후보)
-MIN_VIEWS = 5000          # 최소 조회수
-MIN_MULTIPLIER = 5.0      # 조회수가 구독자의 몇 배 이상
-SUB_GROWTH_ALERT = 0.20   # 구독자 급증 기준: 전일 대비 +20%
+MIN_VIEWS = 5000
+MIN_MULTIPLIER = 5.0
+SUB_GROWTH_ALERT = 0.20
 
 HISTORY_FILE = "channel_history.json"
 API_BASE = "https://www.googleapis.com/youtube/v3"
@@ -65,9 +46,6 @@ API_BASE = "https://www.googleapis.com/youtube/v3"
 KST = timezone(timedelta(hours=9))
 
 
-# ---------------------------------------------------------------
-# YouTube API 호출
-# ---------------------------------------------------------------
 def api_get(endpoint, params):
     params["key"] = API_KEY
     r = requests.get(f"{API_BASE}/{endpoint}", params=params, timeout=30)
@@ -77,22 +55,47 @@ def api_get(endpoint, params):
     return r.json()
 
 
+def _do_search(params):
+    """검색 1회 실행. 성공하면 videoId 리스트, 실패하면 예외 그대로 올림."""
+    data = api_get("search", params)
+    ids = [item["id"]["videoId"] for item in data.get("items", []) if item["id"].get("videoId")]
+    return ids
+
+
 def search_videos(category_id, region_code, published_after):
-    """카테고리+국가별 최근 영상을 조회수순으로 검색 (100유닛)"""
+    """카테고리+국가별 최근 영상 검색.
+    1차: 카테고리 필터로 검색. 0개면
+    2차: 카테고리 키워드로 일반 검색(우회). 이래도 0개면 그대로 0개.
+    실패 원인은 로그에 그대로 출력한다."""
+    base = {
+        "part": "snippet",
+        "type": "video",
+        "order": "viewCount",
+        "publishedAfter": published_after,
+        "regionCode": region_code,
+        "relevanceLanguage": "ko",
+        "maxResults": 50,
+    }
+
+    # 1차: 카테고리 ID 필터
     try:
-        data = api_get("search", {
-            "part": "snippet",
-            "type": "video",
-            "order": "viewCount",
-            "publishedAfter": published_after,
-            "regionCode": region_code,
-            "videoCategoryId": category_id,
-            "maxResults": 50,
-        })
+        ids = _do_search({**base, "videoCategoryId": category_id})
+        if ids:
+            return ids
+        print(f"  [알림] 카테고리 필터로 0개 → 키워드 검색으로 재시도")
     except Exception as e:
-        print(f"  검색 실패 (카테고리 {category_id}, {region_code}): {e}")
+        print(f"  [검색 오류] 카테고리 {category_id}, {region_code}: {e}")
+
+    # 2차 우회: 카테고리 이름을 검색어로 사용
+    keyword = CATEGORIES.get(category_id, "")
+    try:
+        ids = _do_search({**base, "q": keyword})
+        if not ids:
+            print(f"  [알림] 키워드 '{keyword}' 검색도 0개")
+        return ids
+    except Exception as e:
+        print(f"  [검색 오류/우회] '{keyword}', {region_code}: {e}")
         return []
-    return [item["id"]["videoId"] for item in data.get("items", []) if item["id"].get("videoId")]
 
 
 def chunked(lst, n=50):
@@ -145,9 +148,6 @@ def fetch_channel_stats(channel_ids):
     return channels
 
 
-# ---------------------------------------------------------------
-# 구독자 히스토리 (구독자 급증 탐지용)
-# ---------------------------------------------------------------
 def load_history():
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r", encoding="utf-8") as f:
@@ -156,7 +156,6 @@ def load_history():
 
 
 def save_history(history):
-    # 파일이 무한정 커지지 않게 최근 30개 스냅샷만 유지
     for cid in history:
         history[cid]["snapshots"] = history[cid]["snapshots"][-30:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
@@ -175,7 +174,6 @@ def update_history_and_detect_growth(history, channels):
         entry["title"] = ch["title"]
         snaps = entry["snapshots"]
 
-        # 이전 스냅샷과 비교 (같은 날 중복 저장 방지)
         prev = None
         for s in reversed(snaps):
             if s["date"] != today:
@@ -203,21 +201,15 @@ def update_history_and_detect_growth(history, channels):
     return growth_alerts
 
 
-# ---------------------------------------------------------------
-# 떡상 점수 계산
-# ---------------------------------------------------------------
 def score_video(video, subs):
     published = datetime.fromisoformat(video["published_at"].replace("Z", "+00:00"))
     hours = max((datetime.now(timezone.utc) - published).total_seconds() / 3600, 1.0)
-    vph = video["views"] / hours                       # 시간당 조회수
-    multiplier = video["views"] / max(subs, 1)          # 구독자 대비 배수
-    score = vph * math.log10(multiplier + 1)            # 종합 점수
+    vph = video["views"] / hours
+    multiplier = video["views"] / max(subs, 1)
+    score = vph * math.log10(multiplier + 1)
     return {"vph": vph, "multiplier": multiplier, "hours": hours, "score": score}
 
 
-# ---------------------------------------------------------------
-# 이메일 작성/발송
-# ---------------------------------------------------------------
 def fmt(n):
     if n >= 10000:
         return f"{n/10000:.1f}만"
@@ -289,9 +281,6 @@ def send_email(html):
     print(f"이메일 발송 완료 → {recipients}")
 
 
-# ---------------------------------------------------------------
-# 메인
-# ---------------------------------------------------------------
 def main():
     published_after = (datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)) \
         .strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -301,9 +290,8 @@ def main():
     if quota_estimate > 9000:
         print("⚠️ 경고: 하루 기본 쿼터(10,000)에 근접합니다. 카테고리나 국가 수를 줄이세요.")
 
-    # 1) 검색
     all_video_ids = set()
-    region_cat_videos = {}  # region -> category_id -> [video_ids]
+    region_cat_videos = {}
     for region in REGION_CODES:
         region_cat_videos[region] = {}
         for cat_id, cat_name in CATEGORIES.items():
@@ -316,14 +304,12 @@ def main():
         print("검색 결과 없음. 종료합니다.")
         return
 
-    # 2) 영상/채널 상세
     print(f"영상 {len(all_video_ids)}개 상세 조회 중...")
     videos = fetch_video_details(all_video_ids)
     channel_ids = {v["channel_id"] for v in videos.values() if v["channel_id"]}
     print(f"채널 {len(channel_ids)}개 조회 중...")
     channels = fetch_channel_stats(channel_ids)
 
-    # 3) 소형 채널 필터 + 점수 계산
     results_by_region = {}
     small_channel_ids = set()
     for region, cats in region_cat_videos.items():
@@ -345,10 +331,8 @@ def main():
             candidates.sort(key=lambda x: x["score"], reverse=True)
             results_by_region[region][cat_name] = candidates[:TOP_N]
 
-    # 4) 구독자 급증 탐지 (히스토리 갱신)
     history = load_history()
     tracked = {cid: channels[cid] for cid in small_channel_ids if cid in channels}
-    # 과거에 추적하던 채널도 계속 추적 (급증 탐지 정확도 향상)
     old_tracked = [cid for cid in history if cid not in tracked]
     if old_tracked:
         print(f"기존 추적 채널 {len(old_tracked)}개 재조회 중...")
@@ -356,7 +340,6 @@ def main():
     growth_alerts = update_history_and_detect_growth(history, tracked)
     save_history(history)
 
-    # 5) 이메일
     total = sum(len(v) for cats in results_by_region.values() for v in cats.values())
     print(f"최종 선정: 영상 {total}개, 급증 채널 {len(growth_alerts)}개")
     html = build_email_html(results_by_region, growth_alerts)
