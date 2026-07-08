@@ -1,15 +1,20 @@
-name: 유튜브 떡상 리포트
+name: 떡상 레이더 수집
 
 on:
   schedule:
     - cron: "0 22 * * *"
   workflow_dispatch:
+    inputs:
+      region:
+        description: "수집할 국가 (비우면 요일 자동선택)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
 
 jobs:
-  run:
+  collect:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,22 +26,19 @@ jobs:
       - name: 라이브러리 설치
         run: pip install requests
 
-      - name: 분석 실행 및 이메일 발송
+      - name: 수집 실행
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
-          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          TO_EMAIL: ${{ secrets.TO_EMAIL }}
-          REGION_CODES: ${{ vars.REGION_CODES || 'KR' }}
+          FORCE_REGION: ${{ github.event.inputs.region }}
           MAX_SUBSCRIBERS: ${{ vars.MAX_SUBSCRIBERS || '10000' }}
           LOOKBACK_HOURS: ${{ vars.LOOKBACK_HOURS || '48' }}
-          TOP_N_PER_CATEGORY: ${{ vars.TOP_N_PER_CATEGORY || '5' }}
-        run: python analyzer.py
+          TOP_N_PER_CATEGORY: ${{ vars.TOP_N_PER_CATEGORY || '8' }}
+        run: python collector.py
 
-      - name: 구독자 히스토리 저장
+      - name: 결과 저장 (커밋)
         run: |
           git config user.name "yt-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add channel_history.json || true
-          git diff --cached --quiet || git commit -m "구독자 스냅샷"
+          git add docs/data/*.json || true
+          git diff --cached --quiet || git commit -m "수집 $(date +'%Y-%m-%d')"
           git push
