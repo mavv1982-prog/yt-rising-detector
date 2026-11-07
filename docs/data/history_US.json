@@ -4831,6 +4831,10 @@
    {
     "date": "2026-11-05",
     "subs": 2410
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2440
    }
   ]
  },
@@ -5007,6 +5011,10 @@
    {
     "date": "2026-11-05",
     "subs": 3830
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 4040
    }
   ]
  },
@@ -10291,6 +10299,10 @@
    {
     "date": "2026-11-03",
     "subs": 181
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 188
    }
   ]
  },
@@ -11953,6 +11965,10 @@
    {
     "date": "2026-10-20",
     "subs": 2850
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 3030
    }
   ]
  },
@@ -25416,6 +25432,10 @@
    {
     "date": "2026-07-25",
     "subs": 1290
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2880
    }
   ]
  },
@@ -33102,6 +33122,10 @@
    {
     "date": "2026-11-03",
     "subs": 5530
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 5930
    }
   ]
  },
@@ -50638,6 +50662,10 @@
    {
     "date": "2026-10-10",
     "subs": 1910
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2640
    }
   ]
  },
@@ -56648,6 +56676,10 @@
    {
     "date": "2026-11-05",
     "subs": 4720
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 4740
    }
   ]
  },
@@ -57704,6 +57736,10 @@
    {
     "date": "2026-11-05",
     "subs": 1060
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1080
    }
   ]
  },
@@ -59044,6 +59080,10 @@
    {
     "date": "2026-10-08",
     "subs": 7270
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 8680
    }
   ]
  },
@@ -61901,6 +61941,10 @@
    {
     "date": "2026-11-05",
     "subs": 8700
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 8780
    }
   ]
  },
@@ -63593,6 +63637,10 @@
    {
     "date": "2026-10-13",
     "subs": 1820
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2160
    }
   ]
  },
@@ -74609,6 +74657,10 @@
    {
     "date": "2026-10-22",
     "subs": 2060
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2350
    }
   ]
  },
@@ -77786,6 +77838,10 @@
    {
     "date": "2026-09-03",
     "subs": 748
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1330
    }
   ]
  },
@@ -83585,6 +83641,10 @@
    {
     "date": "2026-11-05",
     "subs": 5440
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 7830
    }
   ]
  },
@@ -85446,6 +85506,10 @@
    {
     "date": "2026-11-05",
     "subs": 4130
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 4220
    }
   ]
  },
@@ -89071,6 +89135,10 @@
    {
     "date": "2026-09-12",
     "subs": 1840
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 6000
    }
   ]
  },
@@ -93642,11 +93710,15 @@
   ]
  },
  "UC3AnSc_Rw7qEW0DpvgsBFFw": {
-  "title": "@facts",
+  "title": "@MINDAURA",
   "snapshots": [
    {
     "date": "2026-09-15",
     "subs": 3060
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 5410
    }
   ]
  },
@@ -100980,6 +101052,10 @@
    {
     "date": "2026-11-03",
     "subs": 8070
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 9060
    }
   ]
  },
@@ -104297,6 +104373,10 @@
    {
     "date": "2026-10-31",
     "subs": 2010
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2910
    }
   ]
  },
@@ -105203,6 +105283,10 @@
    {
     "date": "2026-09-24",
     "subs": 26
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 74
    }
   ]
  },
@@ -105691,6 +105775,10 @@
    {
     "date": "2026-11-03",
     "subs": 2690
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2830
    }
   ]
  },
@@ -106916,6 +107004,10 @@
    {
     "date": "2026-09-26",
     "subs": 226
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 7270
    }
   ]
  },
@@ -113282,6 +113374,10 @@
    {
     "date": "2026-11-05",
     "subs": 839
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 952
    }
   ]
  },
@@ -113617,6 +113713,10 @@
    {
     "date": "2026-10-01",
     "subs": 81
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 855
    }
   ]
  },
@@ -114052,6 +114152,10 @@
    {
     "date": "2026-10-31",
     "subs": 207
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 212
    }
   ]
  },
@@ -114801,6 +114905,10 @@
    {
     "date": "2026-11-05",
     "subs": 6730
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 7160
    }
   ]
  },
@@ -115604,6 +115712,10 @@
    {
     "date": "2026-11-03",
     "subs": 4310
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 4640
    }
   ]
  },
@@ -117188,6 +117300,10 @@
    {
     "date": "2026-10-06",
     "subs": 1660
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1820
    }
   ]
  },
@@ -122540,6 +122656,10 @@
    {
     "date": "2026-11-03",
     "subs": 8380
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 9200
    }
   ]
  },
@@ -122643,6 +122763,10 @@
    {
     "date": "2026-10-10",
     "subs": 1050
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 3290
    }
   ]
  },
@@ -122694,6 +122818,10 @@
    {
     "date": "2026-11-05",
     "subs": 5500
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 5940
    }
   ]
  },
@@ -122925,6 +123053,10 @@
    {
     "date": "2026-10-10",
     "subs": 567
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 736
    }
   ]
  },
@@ -124237,6 +124369,10 @@
    {
     "date": "2026-10-13",
     "subs": 1330
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2070
    }
   ]
  },
@@ -124943,6 +125079,10 @@
    {
     "date": "2026-10-13",
     "subs": 8650
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 9900
    }
   ]
  },
@@ -125328,6 +125468,10 @@
    {
     "date": "2026-10-13",
     "subs": 2670
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 3350
    }
   ]
  },
@@ -127670,6 +127814,10 @@
    {
     "date": "2026-10-15",
     "subs": 19
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 25
    }
   ]
  },
@@ -127700,6 +127848,10 @@
    {
     "date": "2026-11-05",
     "subs": 9540
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 9970
    }
   ]
  },
@@ -128205,6 +128357,10 @@
    {
     "date": "2026-11-05",
     "subs": 25
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 28
    }
   ]
  },
@@ -131535,6 +131691,10 @@
    {
     "date": "2026-11-05",
     "subs": 1410
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1640
    }
   ]
  },
@@ -131868,6 +132028,10 @@
    {
     "date": "2026-11-03",
     "subs": 1070
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1180
    }
   ]
  },
@@ -132281,6 +132445,10 @@
    {
     "date": "2026-11-03",
     "subs": 31
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 43
    }
   ]
  },
@@ -134416,6 +134584,10 @@
    {
     "date": "2026-10-22",
     "subs": 11
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 132
    }
   ]
  },
@@ -136575,6 +136747,10 @@
    {
     "date": "2026-11-05",
     "subs": 4790
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 5030
    }
   ]
  },
@@ -136669,6 +136845,10 @@
    {
     "date": "2026-10-27",
     "subs": 1090
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 4800
    }
   ]
  },
@@ -137146,6 +137326,10 @@
    {
     "date": "2026-10-24",
     "subs": 560
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 613
    }
   ]
  },
@@ -137275,6 +137459,10 @@
    {
     "date": "2026-11-03",
     "subs": 8950
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 10000
    }
   ]
  },
@@ -137544,6 +137732,10 @@
    {
     "date": "2026-10-27",
     "subs": 6
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 22
    }
   ]
  },
@@ -137668,6 +137860,10 @@
    {
     "date": "2026-10-27",
     "subs": 1030
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1430
    }
   ]
  },
@@ -137713,6 +137909,10 @@
    {
     "date": "2026-10-27",
     "subs": 766
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1530
    }
   ]
  },
@@ -137731,6 +137931,10 @@
    {
     "date": "2026-10-27",
     "subs": 4440
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 7900
    }
   ]
  },
@@ -138262,6 +138466,10 @@
    {
     "date": "2026-11-05",
     "subs": 2680
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 3380
    }
   ]
  },
@@ -138296,6 +138504,10 @@
    {
     "date": "2026-11-05",
     "subs": 1380
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1540
    }
   ]
  },
@@ -138377,6 +138589,10 @@
    {
     "date": "2026-10-27",
     "subs": 1450
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1990
    }
   ]
  },
@@ -138686,6 +138902,10 @@
    {
     "date": "2026-10-29",
     "subs": 560
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 909
    }
   ]
  },
@@ -140059,6 +140279,10 @@
    {
     "date": "2026-11-05",
     "subs": 20
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 28
    }
   ]
  },
@@ -140180,6 +140404,10 @@
    {
     "date": "2026-10-29",
     "subs": 8
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 10
    }
   ]
  },
@@ -140264,6 +140492,10 @@
    {
     "date": "2026-11-05",
     "subs": 2010
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2810
    }
   ]
  },
@@ -141135,6 +141367,10 @@
    {
     "date": "2026-11-03",
     "subs": 4710
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 6520
    }
   ]
  },
@@ -141242,6 +141478,10 @@
    {
     "date": "2026-11-05",
     "subs": 5090
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 5300
    }
   ]
  },
@@ -141527,6 +141767,10 @@
    {
     "date": "2026-10-29",
     "subs": 576
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 8470
    }
   ]
  },
@@ -141554,6 +141798,10 @@
    {
     "date": "2026-10-29",
     "subs": 183
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 539
    }
   ]
  },
@@ -141889,11 +142137,15 @@
   ]
  },
  "UCK6sXD02X4zoWchr7fRkfcQ": {
-  "title": "Saleh Muhammad",
+  "title": "L0vE Unfi1terd",
   "snapshots": [
    {
     "date": "2026-10-29",
     "subs": 21
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 246
    }
   ]
  },
@@ -142288,6 +142540,10 @@
    {
     "date": "2026-10-29",
     "subs": 1390
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2710
    }
   ]
  },
@@ -142911,6 +143167,10 @@
    {
     "date": "2026-11-05",
     "subs": 858
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 982
    }
   ]
  },
@@ -143090,6 +143350,10 @@
    {
     "date": "2026-11-05",
     "subs": 6940
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 9040
    }
   ]
  },
@@ -143108,6 +143372,10 @@
    {
     "date": "2026-10-31",
     "subs": 7720
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 8480
    }
   ]
  },
@@ -143188,6 +143456,10 @@
    {
     "date": "2026-11-05",
     "subs": 1300
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1750
    }
   ]
  },
@@ -143376,6 +143648,10 @@
    {
     "date": "2026-10-31",
     "subs": 262
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1370
    }
   ]
  },
@@ -144008,6 +144284,10 @@
    {
     "date": "2026-11-05",
     "subs": 6540
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 8050
    }
   ]
  },
@@ -144174,6 +144454,10 @@
    {
     "date": "2026-10-31",
     "subs": 5910
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 6100
    }
   ]
  },
@@ -144793,6 +145077,10 @@
    {
     "date": "2026-11-05",
     "subs": 683
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 733
    }
   ]
  },
@@ -145053,6 +145341,10 @@
    {
     "date": "2026-10-31",
     "subs": 1280
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 3900
    }
   ]
  },
@@ -145384,6 +145676,10 @@
    {
     "date": "2026-11-05",
     "subs": 7910
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 9340
    }
   ]
  },
@@ -145604,6 +145900,10 @@
    {
     "date": "2026-11-03",
     "subs": 2160
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 4900
    }
   ]
  },
@@ -145811,6 +146111,10 @@
    {
     "date": "2026-11-03",
     "subs": 1010
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1750
    }
   ]
  },
@@ -146480,6 +146784,10 @@
    {
     "date": "2026-11-05",
     "subs": 908
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1840
    }
   ]
  },
@@ -146516,6 +146824,10 @@
    {
     "date": "2026-11-03",
     "subs": 474
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 972
    }
   ]
  },
@@ -146615,6 +146927,10 @@
    {
     "date": "2026-11-03",
     "subs": 1530
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2100
    }
   ]
  },
@@ -146678,6 +146994,10 @@
    {
     "date": "2026-11-03",
     "subs": 54
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 141
    }
   ]
  },
@@ -146759,6 +147079,10 @@
    {
     "date": "2026-11-03",
     "subs": 1510
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1650
    }
   ]
  },
@@ -146831,6 +147155,10 @@
    {
     "date": "2026-11-03",
     "subs": 2190
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 5450
    }
   ]
  },
@@ -146885,6 +147213,10 @@
    {
     "date": "2026-11-03",
     "subs": 1990
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2420
    }
   ]
  },
@@ -147266,6 +147598,10 @@
    {
     "date": "2026-11-05",
     "subs": 1490
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 1810
    }
   ]
  },
@@ -147657,6 +147993,10 @@
    {
     "date": "2026-11-03",
     "subs": 1320
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2130
    }
   ]
  },
@@ -147990,6 +148330,10 @@
    {
     "date": "2026-11-05",
     "subs": 9180
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 10000
    }
   ]
  },
@@ -148242,6 +148586,10 @@
    {
     "date": "2026-11-05",
     "subs": 2360
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 2630
    }
   ]
  },
@@ -148332,6 +148680,10 @@
    {
     "date": "2026-11-05",
     "subs": 328
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 927
    }
   ]
  },
@@ -148507,11 +148859,15 @@
   ]
  },
  "UCBEYI3u9YkWyMIo0VeONoNQ": {
-  "title": "ayan khan",
+  "title": "khooniSunday60",
   "snapshots": [
    {
     "date": "2026-11-05",
     "subs": 148
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 285
    }
   ]
  },
@@ -148521,6 +148877,10 @@
    {
     "date": "2026-11-05",
     "subs": 5
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 18
    }
   ]
  },
@@ -148548,6 +148908,10 @@
    {
     "date": "2026-11-05",
     "subs": 21
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 126
    }
   ]
  },
@@ -148998,6 +149362,10 @@
    {
     "date": "2026-11-05",
     "subs": 239
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 309
    }
   ]
  },
@@ -149286,6 +149654,10 @@
    {
     "date": "2026-11-05",
     "subs": 2730
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 3350
    }
   ]
  },
@@ -149304,6 +149676,10 @@
    {
     "date": "2026-11-05",
     "subs": 4440
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 5110
    }
   ]
  },
@@ -149322,6 +149698,10 @@
    {
     "date": "2026-11-05",
     "subs": 753
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 3500
    }
   ]
  },
@@ -149556,6 +149936,10 @@
    {
     "date": "2026-11-05",
     "subs": 8
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 9
    }
   ]
  },
@@ -149745,6 +150129,10 @@
    {
     "date": "2026-11-05",
     "subs": 7
+   },
+   {
+    "date": "2026-11-07",
+    "subs": 9
    }
   ]
  },
@@ -150114,6 +150502,2508 @@
    {
     "date": "2026-11-05",
     "subs": 5370
+   }
+  ]
+ },
+ "UCHkMbSFDD2B_7DxJhl8PXOQ": {
+  "title": "Karan Gupta",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 6260
+   }
+  ]
+ },
+ "UCgoXdCm3rsAyEA9Vy77BOdg": {
+  "title": "Hypo ink",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 9
+   }
+  ]
+ },
+ "UCPLQpwyds7prwdnW9-hcbDA": {
+  "title": "Financewitharchitta",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 240
+   }
+  ]
+ },
+ "UCOIn4AqcBqgaOZ4KhfhGP8g": {
+  "title": "Money In Ink",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 29
+   }
+  ]
+ },
+ "UClrLEO65ibFI4mQ7raczmmw": {
+  "title": "LUKA & ANITA",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 9030
+   }
+  ]
+ },
+ "UCutAIKolWqfgMnHH546WD9g": {
+  "title": "Everyday science",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 12
+   }
+  ]
+ },
+ "UCgoqDn0jTWdY0_gTm9vdGnQ": {
+  "title": "CreditCards_Decoded",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 276
+   }
+  ]
+ },
+ "UCIryTkUOWTH_tm5DnSKl4pg": {
+  "title": "FinoraWallet",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4
+   }
+  ]
+ },
+ "UC_k3U-5WcXMm9IA_YG2ilkw": {
+  "title": "Utkarsh Decodes Money",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 266
+   }
+  ]
+ },
+ "UCsrdVBNfArSrt4sQ1YhgSZQ": {
+  "title": "Powerhouse Finance",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 54
+   }
+  ]
+ },
+ "UCRJ9oCKDN17y8pdr_tNSpmw": {
+  "title": "Milonomics",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 10
+   }
+  ]
+ },
+ "UCt1xyewxloQK75kXEGf1oww": {
+  "title": "The stick money guy",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 8
+   }
+  ]
+ },
+ "UCT-USPcpMHdTKsViSVGtdiA": {
+  "title": "daniel di amante",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 87
+   }
+  ]
+ },
+ "UC4wFH6Z1yN0F1H3rMMBpdlw": {
+  "title": "Money Patterns",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 8
+   }
+  ]
+ },
+ "UCpTCJiECT5LTyOpv5dgNigA": {
+  "title": "Casual Capital",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4
+   }
+  ]
+ },
+ "UCA8rmmgFtKs-s5_oWyRsxkg": {
+  "title": "CartoonFinance",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5
+   }
+  ]
+ },
+ "UCek0tUq4ilMLYnYhWu3VIoQ": {
+  "title": "Money Moods",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 32
+   }
+  ]
+ },
+ "UCR2iFy62q7dfjIehAFTIPHQ": {
+  "title": "Ticker & Price",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 553
+   }
+  ]
+ },
+ "UCF4fqSCoVDrr8Y80CgjOKOg": {
+  "title": "Money4Minds",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5
+   }
+  ]
+ },
+ "UCYsWjXwRcqviPukMrT4eYzw": {
+  "title": "The Poly Lab",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1740
+   }
+  ]
+ },
+ "UCdT-GAXawGGDKTaF9tzZVzQ": {
+  "title": "HarishFitnessfrenzy",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5660
+   }
+  ]
+ },
+ "UCHHXdxRvuZ_BkcBwPRuxFwA": {
+  "title": "Jacklee Vlogs",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 855
+   }
+  ]
+ },
+ "UC3cLhAMOCcnmKdjqtNGcw4g": {
+  "title": "TahukahYuk",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 301
+   }
+  ]
+ },
+ "UC3bFAit6RgLZeKOhpbX2mkA": {
+  "title": "786 world official",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 617
+   }
+  ]
+ },
+ "UCHnoMYJkxdyM0lliwcKXNEQ": {
+  "title": "my.fitnesslesson",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4090
+   }
+  ]
+ },
+ "UCOs9i7iMgoVI9jcTqO58WSg": {
+  "title": "Manvi Fitness",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1780
+   }
+  ]
+ },
+ "UC_nJ8yS72FlBW4xe9HNwXKQ": {
+  "title": "Srichaitanyawellnesswonders",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 8600
+   }
+  ]
+ },
+ "UCNAnolucJkTTdkuG1qSWqUQ": {
+  "title": "BiteSized Secrets",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1360
+   }
+  ]
+ },
+ "UCksG_nYU3FRiLiIi6oGXQhA": {
+  "title": "GoodMonk",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2330
+   }
+  ]
+ },
+ "UC4IBkvn4uYN5oTkUgSB57lQ": {
+  "title": "Sia Mobility ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5080
+   }
+  ]
+ },
+ "UCYyOON0r82g6u7_FAqf3_6w": {
+  "title": "Billi Billi Exercise 78",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 854
+   }
+  ]
+ },
+ "UCptzZx1gR9hGxPbEVAKRQKg": {
+  "title": "Анна Круковская",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4020
+   }
+  ]
+ },
+ "UCf3mOkSj9-9nBvNVajsF9WA": {
+  "title": "Dokter Air",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1480
+   }
+  ]
+ },
+ "UCc0EguyfkHunwe-CwwWoMqQ": {
+  "title": "happylao6",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 370
+   }
+  ]
+ },
+ "UCsZ4GYpkROAG8OB12-eW5tw": {
+  "title": "PROJECT26",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4830
+   }
+  ]
+ },
+ "UCusmwQVSsMgcyigIKEzzrAQ": {
+  "title": "Rafit Jaman Facts 2:0",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3970
+   }
+  ]
+ },
+ "UCF0UMbE8WSuNdkRUqBf7Vcw": {
+  "title": "Dilkhush Yadav official",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3400
+   }
+  ]
+ },
+ "UCYJrBG6zOAqAesJbr34pyQg": {
+  "title": "Arogya Bindhu",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 489
+   }
+  ]
+ },
+ "UCplvRBCh5gAUHiU663GKQqA": {
+  "title": "Saina Health Plus",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 7260
+   }
+  ]
+ },
+ "UCvZ8K9tci4OCfqi94JxgM-g": {
+  "title": "BobbyXFit",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 555
+   }
+  ]
+ },
+ "UCOQMQr1Gl3ERe9bLyWv_YJA": {
+  "title": "Lakeland Regional Health",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 751
+   }
+  ]
+ },
+ "UCVEpi8h9Z2_j-879Uke8PDw": {
+  "title": "fightsguru",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2130
+   }
+  ]
+ },
+ "UCRPp3vQjC43tnyRfK-PmH9w": {
+  "title": "Wireless History",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 393
+   }
+  ]
+ },
+ "UCaJS7syy5BQqs-aWPhGbgnA": {
+  "title": "The Bigger Picture Daily",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 12
+   }
+  ]
+ },
+ "UCzaQvQeXlOPXZBAInGH8Cbw": {
+  "title": "Grandpa Wise",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5080
+   }
+  ]
+ },
+ "UCT5cU5EUmwDjSmF9bKH_8zA": {
+  "title": "Animal Edits1m",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 79
+   }
+  ]
+ },
+ "UC_WP0vkvkfy9XFlOYg-kXLg": {
+  "title": "BenRenk",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1220
+   }
+  ]
+ },
+ "UCCjcoABiqKvFqwHdYCFaiog": {
+  "title": "The American Ledger",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2340
+   }
+  ]
+ },
+ "UC3CCX9NkclQbyB_wKSISlzQ": {
+  "title": "The Pivotal Hour",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 19
+   }
+  ]
+ },
+ "UC7ZwUBEIjALEihmCYpEjD1Q": {
+  "title": "WWI Workbench",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 6340
+   }
+  ]
+ },
+ "UCGcYXo89VXF5leVE2ZNT6Bw": {
+  "title": "ไทม์นัว TIMENUA",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1600
+   }
+  ]
+ },
+ "UC2tfWXprX0exvskJS7ZGOVA": {
+  "title": "Historical True",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4680
+   }
+  ]
+ },
+ "UCUsPAZMvkRmNkzsXD0rWnDA": {
+  "title": "지구에 관하여",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 8740
+   }
+  ]
+ },
+ "UCGK_KNLmkQ1sTZ1KPzJK1VQ": {
+  "title": "YANKI",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5710
+   }
+  ]
+ },
+ "UCxrQ4nOfR1S213b8SmBG1ng": {
+  "title": "Aeonink",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 11
+   }
+  ]
+ },
+ "UCuauHOb8aA9FbXLXHET_ygg": {
+  "title": "Arbaz khan 07",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 7520
+   }
+  ]
+ },
+ "UCscaS4XrZIfKIJt5Zb-euoQ": {
+  "title": "Time In Motion",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4790
+   }
+  ]
+ },
+ "UCNcq1WTkYD4x3xQWULS9IAA": {
+  "title": " FQR: Faith • Quran • Research",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 693
+   }
+  ]
+ },
+ "UCOz-Zk-0xwj5LGrIBaQD33g": {
+  "title": "D cartoon facts ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 605
+   }
+  ]
+ },
+ "UC_6OMi1_dKp75iBjeMYuwiQ": {
+  "title": "MULSTREAK",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1350
+   }
+  ]
+ },
+ "UCH12nQNpyp3RpfFfnvWVydQ": {
+  "title": "TimeLine خط الزمن",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 810
+   }
+  ]
+ },
+ "UC3QNIYdr6GrFcv0j1TjpMSA": {
+  "title": "SPRINGBOARD HISTORY ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 604
+   }
+  ]
+ },
+ "UCpQXZ8FgHVvGR0eiMu5_s0Q": {
+  "title": "Bukan Buzzer",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 767
+   }
+  ]
+ },
+ "UCihwTWjsBFlOFyXoQG8SrQQ": {
+  "title": "PrehistoricBirdy",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 828
+   }
+  ]
+ },
+ "UCDiR3zwxEXUMzRK_2k83XAg": {
+  "title": "ByTheMap",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 173
+   }
+  ]
+ },
+ "UC5UO1lak0Rms7nnXntdrBOQ": {
+  "title": "ACEDITS",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 59
+   }
+  ]
+ },
+ "UCRVkPU8hBqYvlUKOU8TcWSQ": {
+  "title": "HRH Fan Page",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 9010
+   }
+  ]
+ },
+ "UC1-dhyWkFjAdCKAJwlYiD9A": {
+  "title": "Upright Films",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5280
+   }
+  ]
+ },
+ "UCX6ilHJaCXqmo6xKkApmevw": {
+  "title": "De las Cavernas al Imperio",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2200
+   }
+  ]
+ },
+ "UCZa7eEvVrx5kCl0tSbdF4pg": {
+  "title": "AadiMatrix",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1880
+   }
+  ]
+ },
+ "UCf3UKH4uEAuHJkXjwY4vBiQ": {
+  "title": "sen speaks",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1610
+   }
+  ]
+ },
+ "UCPj1SG35jtkQGUiFpmDKp_Q": {
+  "title": "just Ai things ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 163
+   }
+  ]
+ },
+ "UC6WDNnvsTEsRmL80x0ZfDQQ": {
+  "title": "Scary Corner",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 617
+   }
+  ]
+ },
+ "UCASZS-XNYMnyrRyH2nNWxhw": {
+  "title": "Khooni Kohra",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 118
+   }
+  ]
+ },
+ "UCU32-6sCm1nKKI2w-SfTRhQ": {
+  "title": "The.American.Tapestry",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 11
+   }
+  ]
+ },
+ "UCfvCIk3fml-ZQvpxPJ6ikqw": {
+  "title": "ReelTalk Therapy",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4920
+   }
+  ]
+ },
+ "UCdv7rF8DQnPKfbIyjrn5jTw": {
+  "title": "Cold Archive",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 14
+   }
+  ]
+ },
+ "UCS-SPjt1gDEjdb0tnYLfYqQ": {
+  "title": "HISTORICAL MYSTERY STORIES",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 27
+   }
+  ]
+ },
+ "UC2wDiu-ZTkB2-pOWBEzSWNA": {
+  "title": "Crick Munna ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5350
+   }
+  ]
+ },
+ "UCG7Xcha6BqYTtH_T6-v6mRg": {
+  "title": "ThatOneBacon",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 537
+   }
+  ]
+ },
+ "UC6uU7itznmgTSs19NmW-K7A": {
+  "title": "Alpha Akki Horror",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3610
+   }
+  ]
+ },
+ "UCrNMhAFuRTC5zV3_AVL0R2Q": {
+  "title": "DAARNOX",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 204
+   }
+  ]
+ },
+ "UCL0fOI5QbmTSEqO8qYcJCPw": {
+  "title": "THE BLACK DOSSIER",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 11
+   }
+  ]
+ },
+ "UCF2thzppbEA9ZoQXK1rddug": {
+  "title": "COLD FILES",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 25
+   }
+  ]
+ },
+ "UCFjB3i9GW1seLhA4016NvCA": {
+  "title": "StickHistory",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 9
+   }
+  ]
+ },
+ "UCTeMS652UAjanN1GAVwGSfw": {
+  "title": "Jawsin'",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 7310
+   }
+  ]
+ },
+ "UC3Tq76xNhU0z98AugWel3qg": {
+  "title": "Tudicore Darr TV",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 111
+   }
+  ]
+ },
+ "UCN2kmFHf84MuFCrbSFQZq5Q": {
+  "title": "The Unclosed Hour",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 11
+   }
+  ]
+ },
+ "UCgKtKx61rtLwDboq7dhjRHg": {
+  "title": "AniRiot TV",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 197
+   }
+  ]
+ },
+ "UCZpATTsctx4w19_vCQ2izbA": {
+  "title": "ReviewForGen",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 35
+   }
+  ]
+ },
+ "UClN_t0esPt_J5WdGHnkqFGQ": {
+  "title": "AQUIS PLAZA",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 916
+   }
+  ]
+ },
+ "UCLfWdh-0FjYXx6IgFUHWIjQ": {
+  "title": "Unsolved Archive",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 20
+   }
+  ]
+ },
+ "UC_VVhUR3sGWqeIqp6tfnupw": {
+  "title": "What If Lab",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 23
+   }
+  ]
+ },
+ "UCzeWATaUu4XB-_jPWKDiZVA": {
+  "title": "Tarot by Lora",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 64
+   }
+  ]
+ },
+ "UC_-Deaw-sCzAWAWGdMIIw2A": {
+  "title": "Ai_adda_03",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 926
+   }
+  ]
+ },
+ "UCxBoo0c07YCbaCPYnQD5WVQ": {
+  "title": "​Deep Roots Telugu",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 18
+   }
+  ]
+ },
+ "UCEqh03UGXxl_zXmgDLoto9A": {
+  "title": "The Enigma Files",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 20
+   }
+  ]
+ },
+ "UC8kgadQ7c9858JiQErEZWVg": {
+  "title": "Creepy Minutes with Ravikumar",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 53
+   }
+  ]
+ },
+ "UChSXRuStCO6nHmgvqCBGHtA": {
+  "title": "PynDuy",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 425
+   }
+  ]
+ },
+ "UC4SyZ-0irY6ppaj28tovnYA": {
+  "title": "The Last Lead",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 16
+   }
+  ]
+ },
+ "UCqUFS1k0F1WJcmob11-Q66g": {
+  "title": "Midnight Horror Story BD",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 386
+   }
+  ]
+ },
+ "UC7Zn9pMbr72dXMf-RDgqC_Q": {
+  "title": "AV StoryMitra",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 108
+   }
+  ]
+ },
+ "UCtxY4g5-X15D7PyMBnoTJlA": {
+  "title": "SideQuest Stories ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 55
+   }
+  ]
+ },
+ "UCozqWqcCFKI-UsMIJo_PRtQ": {
+  "title": "GlobaX - Dark Stories",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 106
+   }
+  ]
+ },
+ "UC8-mzYitwBCJUpDp4vhcpMQ": {
+  "title": "HystoricHoror",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 43
+   }
+  ]
+ },
+ "UC488E5FAQp9ndz9pR8Hlz8g": {
+  "title": "Midnight Documentary",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 25
+   }
+  ]
+ },
+ "UC_hVeW4lQOCYbwjNxoFICsA": {
+  "title": "Crazy content",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 17
+   }
+  ]
+ },
+ "UC7zeISXS8fQh3q32cA3H27g": {
+  "title": "Scary files hindi",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2340
+   }
+  ]
+ },
+ "UCqFiCuSsWv5qLSPXc8HJLKw": {
+  "title": "211 Highlights",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1140
+   }
+  ]
+ },
+ "UCDY-VPfbLyNXsCWYJmmThbg": {
+  "title": "Zaciangamer",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 597
+   }
+  ]
+ },
+ "UCsTuZioflJH_JeBeCJ9r5MQ": {
+  "title": "DJ TULSI BAGODAR",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1230
+   }
+  ]
+ },
+ "UCXCmJNPUBaGbeeg8B2UV7LQ": {
+  "title": "Sewing For Survival",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 445
+   }
+  ]
+ },
+ "UCu347XSPNI9hV1V9JopCaqg": {
+  "title": "Hazlewood Dorosh01",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 387
+   }
+  ]
+ },
+ "UC7v-dRvu0_VJITwbvj5XVKw": {
+  "title": "30second Expalin ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 213
+   }
+  ]
+ },
+ "UC6MxffTHf9SWt9nR7MxUTxQ": {
+  "title": "7guys&adream",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3710
+   }
+  ]
+ },
+ "UCw0dO68qa1wcAWhsFxWJqeQ": {
+  "title": "Ratnesh Shirsat",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5020
+   }
+  ]
+ },
+ "UCtH6Wx4y7m3YBNOmgZoPAJw": {
+  "title": "gingylogan",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3210
+   }
+  ]
+ },
+ "UC5AC8OFHjx_RWUNFTOA5Z8g": {
+  "title": "ENDZ0N3",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 320
+   }
+  ]
+ },
+ "UC5MfWQUlD7A8xTlFL2ZUXzQ": {
+  "title": "Reddy Man Sports ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1390
+   }
+  ]
+ },
+ "UCyXYWPrN7TiSZ2sqJWvXgnQ": {
+  "title": "Shortivo433",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4230
+   }
+  ]
+ },
+ "UChvc-pzpzkuwSicgCXFjGSA": {
+  "title": "ARİS FC",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 666
+   }
+  ]
+ },
+ "UCuEyiZDybiFnQvkk9wFQiCg": {
+  "title": "Looply",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1500
+   }
+  ]
+ },
+ "UCocNjSXByft2KJsMgf4EbVA": {
+  "title": "Side Edge",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1610
+   }
+  ]
+ },
+ "UCd8EIcWRYuKQ7nACJZFK7_A": {
+  "title": "Sharp Edge Media",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2070
+   }
+  ]
+ },
+ "UCSU_g5dStV9aA1UwSU3yeVg": {
+  "title": "Nirama Musik",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1100
+   }
+  ]
+ },
+ "UChaw9NeQa6RdRdBflN79jQg": {
+  "title": "Midnight Desire",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 9610
+   }
+  ]
+ },
+ "UCtmnJCabasD1YHiVqHKjlXA": {
+  "title": "LOFI EMOTIONAL SONGS",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 391
+   }
+  ]
+ },
+ "UCZDxCoTYng3MXTU1ag4bVUA": {
+  "title": "Lofi Silsila ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 407
+   }
+  ]
+ },
+ "UCNCvh134-Zot9CDqrRC-j2w": {
+  "title": "BassVibe Music",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 164
+   }
+  ]
+ },
+ "UCyTu9oYfVS-Go8QY89PHwlA": {
+  "title": "Hosen Ali",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 16
+   }
+  ]
+ },
+ "UCdLx2FB0ua8M2ngsDd6EuZA": {
+  "title": "_SB_CREATER_",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1090
+   }
+  ]
+ },
+ "UCajlLI58pkbVylpd4O5b4jA": {
+  "title": "akanshu arya shorts ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5800
+   }
+  ]
+ },
+ "UCm-E_h4VGXHs8YC1DtZ4pXA": {
+  "title": "ACTION  PLAYER",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 19
+   }
+  ]
+ },
+ "UC-JB0ivVHP1gtDygTK8vxFA": {
+  "title": "Riya Lofi Point ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 223
+   }
+  ]
+ },
+ "UCLa3y4wmQv5JUPCeHOMavbA": {
+  "title": "Punjabi_xeditz",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 475
+   }
+  ]
+ },
+ "UC5-1zxU09xunRpqPzhAWDKA": {
+  "title": "Layali Chaabi ليالي الشعبي",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 815
+   }
+  ]
+ },
+ "UCdB4noEC-EDkY69hNeSUNXg": {
+  "title": "IshqKiDhun Official",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 133
+   }
+  ]
+ },
+ "UCS0QLH6xIq8Xm04xvJT1DoA": {
+  "title": "ROYAL LOFI RAJA",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 110
+   }
+  ]
+ },
+ "UCuLvRmVyYtyKSV3p0quhLfQ": {
+  "title": "Dhaniram kamal",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 532
+   }
+  ]
+ },
+ "UCRfWMYrwguz96QF03IIGA3g": {
+  "title": "Dhunn Drift Ms",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 925
+   }
+  ]
+ },
+ "UCQ_FCGPCJrnxhzmmfOaGtcg": {
+  "title": "Mario Side B",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 842
+   }
+  ]
+ },
+ "UCzQu9P3cl2ZrxHTSO0KGU4w": {
+  "title": "Aayush Bhardwaj",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1490
+   }
+  ]
+ },
+ "UCK_UKhw-Bcu0wS60nZG8LMg": {
+  "title": "저저",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 444
+   }
+  ]
+ },
+ "UCY4RlC4aflPBWNjLKvjHLdQ": {
+  "title": "Max78bs",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 377
+   }
+  ]
+ },
+ "UC_JywanBmC4Iwmf9sz7UPhQ": {
+  "title": "Kooku happiness ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5160
+   }
+  ]
+ },
+ "UC8vsW4O7OUlCEteoVgllDOA": {
+  "title": "DJ Music Beats ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4110
+   }
+  ]
+ },
+ "UCVsonpwcpmYRy4F5pYuwUow": {
+  "title": "Nith RMX",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 70
+   }
+  ]
+ },
+ "UCsenV4qXgTbg67Eo-o7vjGg": {
+  "title": "Anish@ official 998 ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 422
+   }
+  ]
+ },
+ "UCUnQ49hGpvGkPtxKTpw1VTA": {
+  "title": "ROX SHIVAM 5K",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 116
+   }
+  ]
+ },
+ "UCjncszSKrSyET1sWMRm8dLA": {
+  "title": "Lofi Song VINU",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 24
+   }
+  ]
+ },
+ "UCvBBz53ELDBtdrIQhC81p2A": {
+  "title": "Sunset Zion",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 22
+   }
+  ]
+ },
+ "UCrvyvjXZi6y3Ng2JrnAuycA": {
+  "title": "Feel Me",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 185
+   }
+  ]
+ },
+ "UCTPOAP_NqCNj1bVbb4J3o3g": {
+  "title": "OnMic Music",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 119
+   }
+  ]
+ },
+ "UCSNhxQPYBavXlz86beck5xA": {
+  "title": "FABZ REGGAE MIX",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 107
+   }
+  ]
+ },
+ "UCHq_SixFiOm3qbxNUw_uHOg": {
+  "title": "রিতু লফি টিম",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 13
+   }
+  ]
+ },
+ "UCSS85OagjTEiISJ9Lr-7kpA": {
+  "title": "Romantic Lo-fi Song ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4470
+   }
+  ]
+ },
+ "UCBhhOK9x0l1Y3In8Jd78sjg": {
+  "title": "Hindi Lo-fi Music ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2190
+   }
+  ]
+ },
+ "UCEgNeLoEGXgu_38dQLVHojA": {
+  "title": "free fire ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 453
+   }
+  ]
+ },
+ "UCJkpGtvhchjN-5G3aU7D5Wg": {
+  "title": "sameer Rahi522",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 411
+   }
+  ]
+ },
+ "UCGUAb0QNvZLZbxDZwTB78SQ": {
+  "title": "Mine ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 729
+   }
+  ]
+ },
+ "UC0BCkpvzxLeemVYQBf7V0pQ": {
+  "title": "Binggo",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2080
+   }
+  ]
+ },
+ "UChL9xHmAIqUnX-ufuBBspSQ": {
+  "title": "Ms Bhai 2",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1220
+   }
+  ]
+ },
+ "UCWcLr4_ikul56kpeuC-cyzg": {
+  "title": "Armaan Khan Offical",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 150
+   }
+  ]
+ },
+ "UCjWlGWRyZORilwPnREMLcMA": {
+  "title": " 𝐒𝐄𝐋𝐅--𝐑𝐄𝐒𝐏𝐄𝐂𝐓",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 525
+   }
+  ]
+ },
+ "UCwSp1pe-26cdA0ovuPK6Oeg": {
+  "title": "90s",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3760
+   }
+  ]
+ },
+ "UCJ-EuNFaxbIkZEE0p2gqA5w": {
+  "title": "La donitas mayor 🌸",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 107
+   }
+  ]
+ },
+ "UCWabmAXBLs1klAC0Y5gn68A": {
+  "title": "Lo-FI Aansoo",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 53
+   }
+  ]
+ },
+ "UCvGTgcvTqbFmzHeb1RutVmg": {
+  "title": "Funzy Shorts ai",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 933
+   }
+  ]
+ },
+ "UCKaUdBev8K48cIaMuviMyKg": {
+  "title": "El Sabinero",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5240
+   }
+  ]
+ },
+ "UCMDU4oeAymhu5mTyGVOA1Rw": {
+  "title": "dark brain facts",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1170
+   }
+  ]
+ },
+ "UCOFvWGi0iBXOlZ71GugQgWw": {
+  "title": "MindShift Psychology ⭐",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2730
+   }
+  ]
+ },
+ "UCciJaG2ZvzoSdWsowqlQrlA": {
+  "title": "SAHAD PlayzZz",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 8420
+   }
+  ]
+ },
+ "UCiUFoIQ5GqsCQ3kFkyBEj7g": {
+  "title": "Shreesath Biradar",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3780
+   }
+  ]
+ },
+ "UCdm2516LGNjUZtuViTW1OHQ": {
+  "title": "Phoenix Protocol",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4470
+   }
+  ]
+ },
+ "UC1FUjQ9XIeuhWYKx5c2v58Q": {
+  "title": "_Sheeba_shehroz_khan_786",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5250
+   }
+  ]
+ },
+ "UCkPgOf9ti55Wj28MjziTMcw": {
+  "title": "HEART LOGIC",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 364
+   }
+  ]
+ },
+ "UCNxTHDU5HTpovEo8xn8z3tQ": {
+  "title": "PsychoZone",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 727
+   }
+  ]
+ },
+ "UCGZeVFxx9LcljpueV50wW8A": {
+  "title": "sun_entertainment",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3520
+   }
+  ]
+ },
+ "UCoGxoFFoalTkxhmnwy9zwLA": {
+  "title": "Built",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 523
+   }
+  ]
+ },
+ "UC3_8ePQHU_84Yr1627YQJFQ": {
+  "title": "Sorry, brain...",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1040
+   }
+  ]
+ },
+ "UC3N0bjG-NfzMUogrIcSCB0g": {
+  "title": "Mindset Animation",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 258
+   }
+  ]
+ },
+ "UCidG0wywDeJvsyVnKSAJdmQ": {
+  "title": "AlphaMind X",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 6750
+   }
+  ]
+ },
+ "UCm8a0fPE6YzgZTP2Q1ltNiw": {
+  "title": "udin moveroad",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3700
+   }
+  ]
+ },
+ "UCJ7R7QOWEg3eGjZ3_z1Dmdg": {
+  "title": "DocPsycho",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 6580
+   }
+  ]
+ },
+ "UCoL4DLbKwNN6aYAmxOa51eQ": {
+  "title": "Engineering 365",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 25
+   }
+  ]
+ },
+ "UCz4utzBAMPPMP72Rn0RtJ6A": {
+  "title": "TIAP HARI JALAN",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 7290
+   }
+  ]
+ },
+ "UC6os2wOqWevsECg2gQ-vxyg": {
+  "title": "Dio bot  99 ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 858
+   }
+  ]
+ },
+ "UCieOd4DSVKCI-JgfjSztBHA": {
+  "title": "Kodxod",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3000
+   }
+  ]
+ },
+ "UCiEiqWomf2zKCi6byEcV5Rw": {
+  "title": "The Daily Boost",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2850
+   }
+  ]
+ },
+ "UCSDy1oXGnK_FWVdxnqBb5rw": {
+  "title": "Mindset Vault",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5050
+   }
+  ]
+ },
+ "UCq7wm2E67AKJugamznBOpkg": {
+  "title": "pranav kumbhare",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 6130
+   }
+  ]
+ },
+ "UCt62mAfTT8REI8NO8lEOETw": {
+  "title": "DIGEN 03",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4590
+   }
+  ]
+ },
+ "UCwMK2P_lUr7OhXOK0otgGDw": {
+  "title": "Aly Amung",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1040
+   }
+  ]
+ },
+ "UC_AT8nbE0KL7jLwTFwwFCiw": {
+  "title": "Branchlight",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 33
+   }
+  ]
+ },
+ "UCV_ie-9V8nF-iToPZbFuwQQ": {
+  "title": "ARMY 7 ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4760
+   }
+  ]
+ },
+ "UC4XNlD3VHDPoK8405QZPGxQ": {
+  "title": "pagal deewana 744",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4900
+   }
+  ]
+ },
+ "UCr6R_nVEqfd1Kc6S3OMcXbQ": {
+  "title": "Elias Winter Clips",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3270
+   }
+  ]
+ },
+ "UCzb7FSiCBpTCKxeYotumeyg": {
+  "title": "3td animation sa",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3550
+   }
+  ]
+ },
+ "UC40rfinCFxHL-r0EZEdPIJQ": {
+  "title": "Djona NECboseh",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4040
+   }
+  ]
+ },
+ "UCF-Qm-xXUMdWRN3YsXH9l_Q": {
+  "title": "Inner Voice",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 653
+   }
+  ]
+ },
+ "UCtiHWFCD7jw6BLXP2MGmEXA": {
+  "title": "Sportgridyt",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 7360
+   }
+  ]
+ },
+ "UCcTX6_KrcUsG61IOwATSGdg": {
+  "title": "SkyPigeon",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1530
+   }
+  ]
+ },
+ "UCbhlgHR5OkguLeyS3CS1aJA": {
+  "title": "JustNovaGames",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3680
+   }
+  ]
+ },
+ "UCzEFPAtr-iv10DrKyMxpemA": {
+  "title": "Peak Mindset",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3990
+   }
+  ]
+ },
+ "UCgW1v7hby9HHvfYkQQ6gQjA": {
+  "title": "Varsha",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 153
+   }
+  ]
+ },
+ "UCzub8WEiDabJDRHvTf_La4Q": {
+  "title": "Trend Relics",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 504
+   }
+  ]
+ },
+ "UCCOkNLAfLaKz8WwaTcFVReQ": {
+  "title": "Sip of Sense",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 29
+   }
+  ]
+ },
+ "UC7brFSIKni_qw6Z9zxa8Tng": {
+  "title": "와삭몽",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2260
+   }
+  ]
+ },
+ "UCnkOBZ41Yx9x-MaE6m2WVDA": {
+  "title": "Jenny Chats",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 88
+   }
+  ]
+ },
+ "UCPTcy-xqHOXMPCvYgCJKjeg": {
+  "title": "text thrives ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4710
+   }
+  ]
+ },
+ "UClqgyaa1db5msWf3FuQi6ZQ": {
+  "title": "Sage",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 17
+   }
+  ]
+ },
+ "UC5bYBZalQDn_wr6j6826NUQ": {
+  "title": "アニメ編集君",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 219
+   }
+  ]
+ },
+ "UC3HiGjxjVruqbZzBdOut2pg": {
+  "title": "his_charm_theory",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 83
+   }
+  ]
+ },
+ "UC4LvywLzgU539r_TyAfw0TA": {
+  "title": "NikhilCuts",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 686
+   }
+  ]
+ },
+ "UCVEyXVc8ndjfywOmKfS-Uvg": {
+  "title": "Trinity Blair",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2410
+   }
+  ]
+ },
+ "UC97Jj56UED7M7cUdaVn14JQ": {
+  "title": "DAILY NEWS BY MISS SINGH 🗞️",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 7530
+   }
+  ]
+ },
+ "UCmNUz3f580XcHxV7zKSMSmA": {
+  "title": "Salam Czubajewski",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5970
+   }
+  ]
+ },
+ "UChm9TSV3hfs5hS8I3ICIfew": {
+  "title": "nat:)",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 226
+   }
+  ]
+ },
+ "UCSNO3vVNKZDDxcO2YsB7A1A": {
+  "title": "lizxthetics",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 295
+   }
+  ]
+ },
+ "UCMG3ZF070SUFJUvYX0mAeFA": {
+  "title": "LetHimMansplain",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4
+   }
+  ]
+ },
+ "UCuTtVCZ1TX57DDjw209hqmA": {
+  "title": "Life connects",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 770
+   }
+  ]
+ },
+ "UCOruRtZFPk6fmPaEBBSSkcQ": {
+  "title": "Kids kew",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 121
+   }
+  ]
+ },
+ "UCUXcJlf9lS3lb6DJc9tHLkQ": {
+  "title": "Mila Hart",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 43
+   }
+  ]
+ },
+ "UCHW3hj1YZIDh_lG3dtZtdnw": {
+  "title": "TheLifeCatalyst25",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 908
+   }
+  ]
+ },
+ "UCNFekWj5EbbNzvCuYDomsLw": {
+  "title": "The Sohel Show",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 8150
+   }
+  ]
+ },
+ "UCDF-0-WCMiV89kg-cCVjjEA": {
+  "title": "Bebe Dorama",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5130
+   }
+  ]
+ },
+ "UCJ83i03g4oMsXr5jbAOgN7A": {
+  "title": "HeartBeat Tamil Clips",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2440
+   }
+  ]
+ },
+ "UChBrJFjmIkcHF613VD2UNjA": {
+  "title": "MachineVault ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 6880
+   }
+  ]
+ },
+ "UCHrlKpVKDY5evRlAwfqKPhg": {
+  "title": "BAATNEX",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 20
+   }
+  ]
+ },
+ "UCxjYLNGduUx_O3nnZcXHv3w": {
+  "title": "Jayasree Thota ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 6800
+   }
+  ]
+ },
+ "UCRuzTBT9Ij6kJNVE_gxKb2g": {
+  "title": "Liz Zagone",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 4590
+   }
+  ]
+ },
+ "UC7b7bBsgazv8ZdBUEEsyhkg": {
+  "title": "MINDSETLY",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1370
+   }
+  ]
+ },
+ "UC-MWocxk4XqAOGQuR55P2CA": {
+  "title": "Funnythletics",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 9
+   }
+  ]
+ },
+ "UCiZJDTvNxzlzB7oh9K8oEeg": {
+  "title": "현실적연애",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5980
+   }
+  ]
+ },
+ "UCUnLW_lAmBM1GG3mjLUxPdA": {
+  "title": "Dr. Nigel",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 336
+   }
+  ]
+ },
+ "UCTqRX9dwwjM3C0LHZe6E4fQ": {
+  "title": "Planets Ki Baat ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1310
+   }
+  ]
+ },
+ "UCNCjBIQ3GoltgQsz8koON6Q": {
+  "title": "LPshorts-21 ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 58
+   }
+  ]
+ },
+ "UCoKqzOCc_0odqSRH090GJwg": {
+  "title": "M Qasim Mrs Official ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 6890
+   }
+  ]
+ },
+ "UC2AdJ3df1qsPaod-rZPtYYw": {
+  "title": "​@LilyKateClips_04",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1
+   }
+  ]
+ },
+ "UClJlVxQ5wjdndAw8zVVO1kg": {
+  "title": "LifeFusion Lafz",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 13
+   }
+  ]
+ },
+ "UC5OicnIDlvNNB1SYkEJSliw": {
+  "title": "본질수업",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2120
+   }
+  ]
+ },
+ "UCSqkQjAkfeLYBCVJZ5O0dVw": {
+  "title": "Katie Hannigan",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3690
+   }
+  ]
+ },
+ "UCybKqI5dLcmFgDS9LBFZ7eA": {
+  "title": "Shals",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 266
+   }
+  ]
+ },
+ "UCGmArpnN7bcD5NDDC7rhYuw": {
+  "title": "Viji Shashu",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2430
+   }
+  ]
+ },
+ "UCaRS5UszQjn-wR-FR_qj7cQ": {
+  "title": "Film JJcak",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5320
+   }
+  ]
+ },
+ "UC3VmB9N_1NWhap8eGW3UR3A": {
+  "title": "Min Maung Maung Kyaw",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 964
+   }
+  ]
+ },
+ "UCShrZd6pyP_hFKBXOT2blYA": {
+  "title": "ReviewWith sam",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2100
+   }
+  ]
+ },
+ "UCZGwLIDdYbfk7qtFebvfb1A": {
+  "title": "Filmboosk",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3620
+   }
+  ]
+ },
+ "UCeV2X-Z5M_knp3EWvp3ZBLg": {
+  "title": "Aakash Bhagat",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 788
+   }
+  ]
+ },
+ "UC7MMkmFXfXsOQQhZ39oUtxg": {
+  "title": "MovieRiddle",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 220
+   }
+  ]
+ },
+ "UC0aHeoxL-PW7ulZOVtAY8QQ": {
+  "title": "Su Gd",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 9950
+   }
+  ]
+ },
+ "UCDRZe7T2018iMg-bnqlZiDA": {
+  "title": "MainSaagarHoon",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3890
+   }
+  ]
+ },
+ "UCPvM-frbxBqF8hrJVtQ1Paw": {
+  "title": "doramasresumos 💕",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2020
+   }
+  ]
+ },
+ "UCOHgdBN0yqfaupEzFLEweWA": {
+  "title": "Zaza ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 29
+   }
+  ]
+ },
+ "UC4mDYaxClkrUnInE221TnxQ": {
+  "title": "SUBHAM MOVIE",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3880
+   }
+  ]
+ },
+ "UClnZpykgZyiAAcNtYjqaB6w": {
+  "title": "nano mi ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1020
+   }
+  ]
+ },
+ "UCPySeFRSYl7nbi0F0qH0YMA": {
+  "title": "Reviewlakhan ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1110
+   }
+  ]
+ },
+ "UCG5G_wdsjIMIgAYEm5XH-fQ": {
+  "title": "KAIVOR GAMING ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2490
+   }
+  ]
+ },
+ "UCFspLd1yDRIQGsyFUGYenYQ": {
+  "title": "Rafi Shaikh",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 982
+   }
+  ]
+ },
+ "UCAouXuvMDVpnM6JMIq--XVA": {
+  "title": "Hakeem Abbas",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 5880
+   }
+  ]
+ },
+ "UCUqwSuFvtcn5NeVpNl0eNBg": {
+  "title": "Mount Variance",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1350
+   }
+  ]
+ },
+ "UCKVof2y3bSnjvsQYwb2qjKg": {
+  "title": "Kalke 12",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 6100
+   }
+  ]
+ },
+ "UCLWomPYhvhgAIX2pxcmXHPg": {
+  "title": "Naa Peru Siva",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 842
+   }
+  ]
+ },
+ "UC7pVxFyyoQA1Z9RhF4l4lbg": {
+  "title": "OSHARZ TV ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 6470
+   }
+  ]
+ },
+ "UC-uln_C73goZbXK3dHuJgTQ": {
+  "title": "JasperHicks21",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 293
+   }
+  ]
+ },
+ "UCm91vCO6GN5iUp4_u-GXILQ": {
+  "title": "noor aldin hj",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2750
+   }
+  ]
+ },
+ "UCDajYw95MMorwsLTxgu0F-A": {
+  "title": "decroo Merida",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 8530
+   }
+  ]
+ },
+ "UCkPQ5V6Hwr2AXPo-78dc2nQ": {
+  "title": "ExplainingZone",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3930
+   }
+  ]
+ },
+ "UCXe0Y_mYtiy9IgnMYp5LtqQ": {
+  "title": "Mukesh comedy ",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 441
+   }
+  ]
+ },
+ "UC81UAh23v3r03HY8HdpIwPw": {
+  "title": "Paulo the entertainer",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1870
+   }
+  ]
+ },
+ "UCl_BAeX_m-uiHsZo93bBcvQ": {
+  "title": "Comedy Jokes",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3230
+   }
+  ]
+ },
+ "UCKrxlM6DisiWGkG24uCBJPA": {
+  "title": "Rakib Zone0.2",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 2750
+   }
+  ]
+ },
+ "UC_iNAXFZdOInQDmu6sQVWlg": {
+  "title": "Kelly McLean",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3410
+   }
+  ]
+ },
+ "UCHWOsuuCEcxYfgaVHHs20fg": {
+  "title": "Dadaup63",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1780
+   }
+  ]
+ },
+ "UCrlEVgwtR8XpNGy4EyxehtQ": {
+  "title": "Shamim Crazy 💫",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 9310
+   }
+  ]
+ },
+ "UCduT3UdM9EK1FIas-fPWKJg": {
+  "title": "Sara k vlogs",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 1250
+   }
+  ]
+ },
+ "UCNjGvKA-fE8I20r1yXrGJGQ": {
+  "title": "Vishu Arts",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 3410
+   }
+  ]
+ },
+ "UCEJdvLu8RB7KKJNZ6YamVaQ": {
+  "title": "The_simmo_vlogs",
+  "snapshots": [
+   {
+    "date": "2026-11-07",
+    "subs": 595
    }
   ]
  }
